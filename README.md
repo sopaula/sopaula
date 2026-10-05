@@ -17,10 +17,10 @@ I enjoy working with data, building practical applications and understanding the
 ## Tech Stack
 
 ### Programming
-Python • SQL • JavaScript • HTML • CSS
+Python • SQL • C++ • HTML • CSS
 
 ### Data & Machine Learning
-Pandas • NumPy • Scikit-learn • Jupyter
+Pandas • NumPy • Scikit-learn • Jupyter • Matplotlib
 
 ### Backend & APIs
 FastAPI • REST API • SQLAlchemy
@@ -28,11 +28,11 @@ FastAPI • REST API • SQLAlchemy
 ### Databases
 PostgreSQL • SQLite
 
-### Dev Tools & Cloud
-Git • GitHub • Docker • GitHub Actions • Azure • VS Code
+### DevOps & Cloud
+Docker • GitHub Actions • Azure • CI
 
-### Data & Analytical Skills
-Data Analysis • Statistics • Machine Learning • Feature Engineering
+### Development Tools
+Git • GitHub • VS Code • uv • pytest • Ruff • pre-commit
 
 ## Featured Projects
 
@@ -50,11 +50,11 @@ The project includes data ingestion, data processing, PostgreSQL database, REST 
 
 An AI-based travel planning system currently in development.
 
-Planned stack: Python • FastAPI • React • Machine Learning
+**Planned tech:** Python • FastAPI • React • Machine Learning
 
 ## Currently Learning & Exploring
 
-Data Engineering • ETL & Data Pipelines • Big Data • Cloud • MLOps • System Design • React • Deep Learning
+Data Engineering • ETL & Data Pipelines • Big Data • Cloud Architecture • MLOps • System Design • React • Deep Learning
 
 ## Interests
 
