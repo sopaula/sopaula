@@ -1,10 +1,11 @@
+
 # Hi, I'm Paula :)
 
 Computer Science student interested in **Python, Data, Machine Learning, AI and Mathematics**.
 
 I enjoy working with data, building practical applications and understanding the mathematics behind algorithms and machine learning models.
 
-## About me
+## About Me
 
 - 🎓 Computer Science student
 - 🐍 Mainly working with Python
@@ -17,22 +18,48 @@ I enjoy working with data, building practical applications and understanding the
 ## Tech Stack
 
 ### Programming
-Python • SQL • C++ • HTML • CSS
+
+![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=1572B6)
 
 ### Data & Machine Learning
-Pandas • NumPy • Scikit-learn • Jupyter • Matplotlib
+
+![Pandas](https://img.shields.io/badge/PANDAS-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Jupyter](https://img.shields.io/badge/JUPYTER-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-111111?style=for-the-badge)
 
 ### Backend & APIs
-FastAPI • REST API • SQLAlchemy
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-111111?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00)
 
 ### Databases
-PostgreSQL • SQLite
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLITE-111111?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
 ### DevOps & Cloud
-Docker • GitHub Actions • Azure • CI
+
+![Docker](https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Azure](https://img.shields.io/badge/AZURE-111111?style=for-the-badge)
+![CI](https://img.shields.io/badge/CI-111111?style=for-the-badge)
 
 ### Development Tools
-Git • GitHub • VS Code • uv • pytest • Ruff • pre-commit
+
+![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-111111?style=for-the-badge)
+![uv](https://img.shields.io/badge/UV-111111?style=for-the-badge&logo=uv&logoColor=DE5FE9)
+![pytest](https://img.shields.io/badge/PYTEST-111111?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Ruff](https://img.shields.io/badge/RUFF-111111?style=for-the-badge&logo=ruff&logoColor=D7FF64)
+![pre-commit](https://img.shields.io/badge/PRE--COMMIT-111111?style=for-the-badge&logo=precommit&logoColor=FAB040)
 
 ## Featured Projects
 
